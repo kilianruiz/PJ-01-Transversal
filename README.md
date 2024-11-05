@@ -5,7 +5,7 @@ GRUP HAL:<br>
     3. Óscar López Arguedas<br>
     4. Adrián Vázquez Pascuas<br><br>
 
-<b>Informació sobre l'activitat:</b><br>
+<b>INFORMACIÓ DE L'APLICACIÓ</b><br>
 El restaurant tindrà diferents "sales". En concret, tindrà 3 terrasses, 2 menjadors i 4 sales privades. La distribució de taules de cada sala és lliure a definir pels membres del grup.<br><br>
 
 <b>FUNCIONAMENT DE L'APLICACIÓ</b><br>
@@ -19,7 +19,7 @@ Un cop s'allibera el recurs (el client ha acabat de dinar o sopar), el cambrer �
 
 Els usuaris ja estan creats a la base de dades, és a dir, <b>no calen formularis d'alta/baixa/modificació d'usuaris</b>.<br>
 
-<b>Altres Tasques</b><br>
+<b>ALTRES TASQUES</b><br>
 Fer una <b>planificació (GANTT)</b><br>
 
 Fer <b>us dels rols</b> (Coordinador, Impulsor y Finalizador)<br>
